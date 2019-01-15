@@ -1,0 +1,42 @@
+@font-face{
+	font-family:'EUPHORIA SCRIPT';
+	src:url(../fonts/EuphoriaScript-Regular.otf) format('otf');
+}
+
+
+
+
+	p {
+	color:green;
+	font-family: 'Staatliches', cursive;
+  }
+
+h1
+  {
+  	font-family:EUPHORIA SCRIPT;
+  	color:red;
+  }
+
+#special{
+	color:blue;
+
+}  
+
+span{
+	color: red;
+	font-weight:bold;
+}
+ul{
+	list-style-type:ethiopic-halehame-sid-et;
+	}
+div{
+	background-color: yellow;
+	width: 50%;
+}	
+img{
+	float:left;
+	width:50%;
+}
+.clear{
+	clear: both;
+}
