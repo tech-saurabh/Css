@@ -64,4 +64,5 @@ img{
 	height: 400px;
 	background-color: yellow;
 	border:10px solid black;
+	border-bottom: 10px;
 }
