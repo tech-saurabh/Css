@@ -73,4 +73,21 @@ img{
 	background-image: url(https://cdn.pixabay.com/photo/2018/08/06/16/30/mushroom-3587888_1280.jpg);
     background-size: 200px;
     background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
