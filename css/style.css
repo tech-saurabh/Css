@@ -66,3 +66,11 @@ img{
 	border:10px solid black;
 	border-bottom: 10px;
 }
+.block{
+	width: 500px;
+	height: 500px;
+	background-color: red;
+	background-image: url(https://cdn.pixabay.com/photo/2018/08/06/16/30/mushroom-3587888_1280.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
