@@ -8,16 +8,19 @@
  	background-image: linear-gradient(50deg,yellow,red);
 
  	background-color: red;
+ 	border-radius: 50%;
  	
  }
 
  .b{
  	background-image: radial-gradient(ellipse,blue,brown);
  	background-color: blue;
+ 	border-radius: 10px 40px;
  
  }
 
  .c{
  	background-color: yellow;
+ 	border-radius: 10px 40px 20px 10px;
  }
  	
