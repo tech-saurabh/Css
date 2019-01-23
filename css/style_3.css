@@ -57,3 +57,7 @@ inp-1:focus{
 .inp-4:disabled{
 	color:red;
 }
+
+p:nth-child(even){
+	color:red;
+}
