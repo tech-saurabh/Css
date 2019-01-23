@@ -1,0 +1,28 @@
+/*a:link{
+	color:brown;
+}
+a:visited{
+	color:green;
+}*/
+a{
+	display:block;
+	width: 200px;
+	height:50px;
+	background: blue;
+	color: white;
+	padding-top:10px;
+	border-radius: 15px;
+	font-family: arial;
+	font-size: 24px;
+	text-align: center;
+	text-decoration: none;
+	box-sizing: border-box;
+
+}
+a:hover{
+	background:brown;
+}
+a:active{
+	background: black;
+	box-shadow: 10px -10px 5px rgba(0,0,0,0.5);
+}
