@@ -43,3 +43,17 @@ inp-1:focus{
 	color:green;
 	background:yellow;
 }
+
+.inp-3:valid{
+      border:3px solid green;
+}
+.inp-3:invalid{
+      border:3px solid red;
+}
+
+.inp-4:enabled{
+	color:blue;
+}
+.inp-4:disabled{
+	color:red;
+}
