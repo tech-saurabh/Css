@@ -10,6 +10,7 @@ a{
 	height:50px;
 	background: blue;
 	color: white;
+	margin-top: 15px;
 	padding-top:10px;
 	border-radius: 15px;
 	font-family: arial;
@@ -25,4 +26,20 @@ a:hover{
 a:active{
 	background: black;
 	box-shadow: 10px -10px 5px rgba(0,0,0,0.5);
+}
+
+
+input{
+	margin-left: 15px;
+	outline:none;
+
+}
+
+inp-1:focus{
+	box-shadow: 0 0 10px rgba(0,0,0,0.8);
+}
+
+#inp-2:checked + label{
+	color:green;
+	background:yellow;
 }
