@@ -12,8 +12,22 @@ div{
 	padding: 10px;
 	box-sizing: border-box;
 	padding-top: 50px;
-	transform: rotate(45 0deg);
+	/*transform: rotate(45 0deg);
 	transform: scale(0.8,1);
+	transform: translate(150px,30px);
+	transform: skew(5deg,0);
+	transform: rotateY(180deg);*/
+	transition-property: all;
+	transition-duration: 30s;
+	/*transition-delay: 1s;*/
+	transition-timing-function: linear;
 
 
+
+}
+
+.block:hover{
+	width: 400px;
+	height: 400px;
+	transform: rotateX(180deg);
 }
