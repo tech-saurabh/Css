@@ -1,0 +1,17 @@
+div{
+	
+	background-color: yellow;
+	border:10px solid grey;
+
+}
+
+.block{
+	width:200px;
+	height: 200px;
+	text-align: center;
+	padding: 10px;
+	box-sizing: border-box;
+	padding-top: 50px;
+
+
+}
