@@ -27,7 +27,7 @@ div{
 }
 
 .block:hover{
-	width: 400px;
+	width: 400px;   
 	height: 400px;
 	transform: rotateX(180deg);
 }
